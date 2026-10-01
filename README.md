@@ -165,27 +165,6 @@ The project can be extended with:
 - 🔔 Notifications
 
 ---
-
-📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-![Dashboard](assets/images/dashboard.png)
-![Student Report](assets/images/student-report.png)
-![Analytics](assets/images/analytics.png)
-
----
-
-👨‍💻 Author
-
-Your Name
-
-Frontend Development Student
-
----
-
 📜 License
 
 This project is created for educational and learning purposes.
